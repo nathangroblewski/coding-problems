@@ -1,0 +1,18 @@
+{
+  "name": "group-by-key",
+  "version": "1.0.0",
+  "description": "js solution(s) for emma coding test ",
+  "main": "app.js",
+  "scripts": {
+    "test": "eslint **/*.js && jest",
+    "lint": "eslint **/*.js",
+    "start": "node ./app.js"
+  },
+  "author": "Nathan Groblewski",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "jest": "^24.9.0",
+    "lodash": "^4.17.15"
+  }
+}
